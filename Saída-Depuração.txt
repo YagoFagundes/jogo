@@ -1,0 +1,7 @@
+﻿"jogo.exe" (CoreCLR: DefaultDomain): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Private.CoreLib.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"jogo.exe" (CoreCLR: clrhost): Carregado "C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\bin\Debug\net5.0\jogo.dll". Símbolos carregados.
+"jogo.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Runtime.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"jogo.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Console.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"jogo.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Threading.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"jogo.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Text.Encoding.Extensions.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+O programa "[3116] jogo.exe" foi fechado com o código 0 (0x0).

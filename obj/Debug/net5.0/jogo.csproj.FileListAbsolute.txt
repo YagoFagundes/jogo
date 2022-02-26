@@ -1,0 +1,16 @@
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\bin\Debug\net5.0\jogo.exe
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\bin\Debug\net5.0\jogo.deps.json
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\bin\Debug\net5.0\jogo.runtimeconfig.json
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\bin\Debug\net5.0\jogo.runtimeconfig.dev.json
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\bin\Debug\net5.0\jogo.dll
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\bin\Debug\net5.0\ref\jogo.dll
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\bin\Debug\net5.0\jogo.pdb
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\obj\Debug\net5.0\jogo.csproj.AssemblyReference.cache
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\obj\Debug\net5.0\jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\obj\Debug\net5.0\jogo.AssemblyInfoInputs.cache
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\obj\Debug\net5.0\jogo.AssemblyInfo.cs
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\obj\Debug\net5.0\jogo.csproj.CoreCompileInputs.cache
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\obj\Debug\net5.0\jogo.dll
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\obj\Debug\net5.0\ref\jogo.dll
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\obj\Debug\net5.0\jogo.pdb
+C:\Users\wtfsp\Desktop\BootCamp DIO\GFT Start #4 .NET\tipos de referencas\jogo rpg\jogo\obj\Debug\net5.0\jogo.genruntimeconfig.cache
